@@ -5,6 +5,6 @@
 <h2 align="center">Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,docker,aws,java,html,css,js,git,metasploit" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,react,docker,aws,java,html,css,js,git,postman" />
   </a>
 </p>
